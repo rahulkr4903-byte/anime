@@ -1,0 +1,375 @@
+ body{
+    margin:0px;
+    padding:0px;
+    height:100%;
+    line-height:1.8em;
+    font-weight:430;
+    color:#666;
+
+    background-color: aquamarine;
+    
+}
+
+.pimg1{
+    background-image: url(/anime/main.jpg);
+    height:100vh;
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+
+.pimg2{
+    background-image: url(/anime/naruto.jpg);
+    height:90vh;
+    width:100%;
+    position:relative;
+    bottom:10px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+
+.pimg3{
+    background-image: url(/anime/attack\ on\ titan.jpg);
+    height:90vh;
+    width:100%;
+    position:relative;
+    bottom:10px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+
+
+.pimg4{
+    background-image: url(/anime/ju.jpg);
+    height:90vh;
+    width:100%;
+    position:relative;
+    bottom:10px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+
+
+
+.pimg5{
+    background-image: url(/anime/DEATH\ NOTE.jpg);
+    height:90vh;
+    width:100%;
+    position:relative;
+    bottom:10px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+
+
+
+
+.pimg6{
+    background-image: url(/anime/full.jpg);
+    height:90vh;
+    width:100%;
+    position:relative;
+    bottom:10px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+
+
+
+
+.pimg7{
+    background-image: url(/anime/Demon\ Slayer.jpg);
+    height:90vh;
+    width:100%;
+    position:relative;
+    bottom:10px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+.pimg8{
+    background-image: url(/anime/My\ Hero\ Academia\ │\ 僕のヒーローアカデミア.jpg);
+    height:90vh;
+    width:100%;
+    position:relative;
+    bottom:10px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+
+
+
+
+
+
+
+
+/* .pimg{
+     height:100vh;
+    width:100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+} */
+
+.anime{
+    position:absolute;
+    top:70px;
+    left:450px;
+    text-decoration:underline ;
+}
+
+ .text1{
+  text-align: center;
+  font-size: 55px;
+  text-transform: uppercase;
+  padding:30px 50px;
+  margin-top: 20px;
+  font-weight: 800;
+}
+
+
+.text2{
+    margin:0 auto;
+    padding:40px,30px;
+    background-color: #0077b6;
+    color:#3b3a3a;
+    border-radius: 6px;
+}
+
+.about{
+    position: relative;
+    font-size: 30px;
+    font-weight: 600;
+    top: 5px;
+    left:3px;
+    text-decoration: underline;
+}
+.text2 h2 {
+    margin: 10px auto;
+    padding:30px, 30px;
+    text-align: center;
+}
+
+.first{
+    position: absolute;
+    left:20px;
+    top:15px;
+}
+
+.first1{
+    color:#368f8b;
+    font-size: 37px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+.f1text{
+   font-size: 1.5em;
+   font-weight: bold;
+    margin: 10px auto;
+        color:#3b3a3a;
+    padding:30px, 30px;
+    text-align: center;
+}
+.f1div{
+    position: relative;
+    bottom:10px;
+    background-color: #81d4f5;
+}
+
+
+.second{
+    position: absolute;
+    left:20px;
+    top:17px;
+}
+
+.second2{
+    color:#ffc300;
+    font-size: 37px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+.f2text{
+   font-size: 1.5em;
+   font-weight: bold;
+    margin: 1px auto;
+    color:#3b3a3a;
+    padding:30px , 30px;
+    text-align: center;
+}
+.f2div{
+    position: relative;
+    bottom:10px;
+    background-color: #eb701d;
+}
+
+
+.third{
+    position: absolute;
+    left:20px;
+    top:18px;
+}
+
+.third3{
+    color:#5adbff;
+    font-size: 37px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+.f3text{
+   font-size: 1.5em;
+   font-weight: bold;
+    margin: 10px auto;
+        color:#3b3a3a;
+    padding:30px, 30px;
+    text-align: center;
+}
+.f3div{
+    background-color: #ff4d6d;
+    position: relative;
+    bottom:10px;
+}
+
+
+.fourth{
+    position: absolute;
+    left:20px;
+    top:18px;
+}
+
+.fourth4{
+    color:#cc122e;
+    font-size: 37px;
+    font-weight: bold;
+        text-decoration: underline;
+
+}
+
+
+.f4text{
+   font-size: 1.5em;
+   font-weight: bold;
+    margin: 10px auto;
+        color:#3b3a3a;
+    padding:30px, 30px;
+    text-align: center;
+}
+
+.f4div{
+    background-color: #b48d45;
+    position: relative;
+    bottom:10px;
+}
+.fifth{
+    position: absolute;
+    left:20px;
+    top:10px;
+}
+
+.fifth5{
+    color:#14213d;
+    font-size: 37px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+.f5text{
+   font-size: 1.5em;
+   font-weight: bold;
+    margin: 10px auto;
+        color:#3b3a3a;
+    padding:30px, 30px;
+    text-align: center;
+}
+.f5div{
+    
+    position: relative;
+    bottom: 11px;
+    background-color: #364d6c;
+}
+
+.sixth{
+    position: absolute;
+    left:20px;
+    top:20px;
+}
+
+.sixth6{
+    color:#f17c50;
+    font-size: 37px;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+
+
+.f6text{
+   font-size: 1.5em;
+   font-weight: bold;
+    margin: 10px auto;
+        color:#3b3a3a;
+    padding:30px, 30px;
+    text-align: center;
+}
+
+.f6div{
+    position: relative;
+    bottom:10px;
+    background-color: #b00acd;
+}
+
+.seventh{
+    position: absolute;
+    left:20px;
+    top: 20px;
+}
+
+.seventh7{
+    color:#058c6a;
+    font-size: 37px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+.f7text{
+   font-size: 1.5em;
+   font-weight: bold;
+    margin: 10px auto;
+        color:#3b3a3a;
+    padding:30px, 30px;
+    text-align: center;
+}
+
+.f7div{
+    
+    position: relative;
+    bottom:10px;
+    background-color: #00c2d1;
+}
